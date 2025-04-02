@@ -2,7 +2,11 @@
 
 A modern web application for browsing and streaming movies and TV shows, built with Next.js and the TMDB API.
 
-![Movie & TV Player](https://image.tmdb.org/t/p/original/placeholder.jpg)
+![image](https://github.com/user-attachments/assets/6077e41c-74c0-491c-954f-7780e747c369)
+
+![image](https://github.com/user-attachments/assets/859455f5-745e-4cee-a400-b521cf3a582e)
+
+![image](https://github.com/user-attachments/assets/714586cb-1aca-4050-8d72-7fa1b6b81356)
 
 ## Features
 
